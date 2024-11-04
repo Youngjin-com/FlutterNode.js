@@ -100,3 +100,8 @@
 
 14장 추가 소셜 기능 구현하기(채팅)
 - 1. 채팅
+
+## 💡문의 및 정오표
+- [문의](mailto:Support@youngjin.com)
+- [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
+- 깃허브 리파지토리 [issue 생성](https://github.com/Youngjin-com/FlutterNode.js/issues/new)
