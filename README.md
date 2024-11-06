@@ -5,6 +5,8 @@
 - 정가: 36,000원
 - 페이지: 560
 
+![(7796)플러터와 Node js로 시작하는 풀스택 개발_입체표지](https://github.com/user-attachments/assets/6e3651ae-7aa2-40ac-8459-c8721b4f6203)
+
 ## 책 소개
 
 > Node.js와 플러터로 풀스택 개발하는 실무 중심 가이드!
